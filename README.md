@@ -17,7 +17,7 @@ If you use this code, we strongly suggest you check our object tracking paper at
 
   |Original data | Stabilized cropped sample |
   |:--:| :--:|
-  | <img src="animation.gif"> | <img src="smaller.gif" width=700px> |
+  | <img src="animation.gif"> | <img src="smaller.gif">|
 
 ### Contents
 1. [Installation](#installation)
