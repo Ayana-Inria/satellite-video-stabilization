@@ -65,4 +65,4 @@ python stabilize.py
     Thanks to BPI France (LiChiE contract) for funding this research work, and to the OPAL infrastructure from Université Côte d'Azur for providing computational resources and support.
 
 ### License
-    GLMB with adaptive birth is released under the GNUv3 License (refer to the LICENSE file for details).
+    Stabilize.py is released under the GNUv3 License (refer to the LICENSE file for details).
